@@ -1,0 +1,11 @@
+{
+    "package": {
+        "name": "materodev/bedrock",
+        "version": "11.1.2",
+        "source": {
+            "url": "https://github.com/materodev/bedrock.git",
+            "type": "git",
+            "reference": "master"
+        }
+    }
+}
